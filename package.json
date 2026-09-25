@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hk-stocks",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Hong Kong equities MCP. Keyless.",
   "type": "module",
   "main": "src/index.ts",
@@ -27,6 +27,6 @@
   },
   "pipeworx": {
     "sourceHash": "v1-cd25249a2578010f812d3d68ee1912bebf927a834b7dba86292b075d92e4a659",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
   }
 }
